@@ -7,8 +7,11 @@ Field name:
 
 '
   Key 2: def
+Some image: "/uploads/Screen%20Shot%202017-04-04%20at%2021.47.45.png"
 ---
 
 **asdfasfdas afsd asdfsadfasdfasdf**
 
 dadsfsadf
+
+![Screen Shot 2017-04-04 at 21.47.45.png](/uploads/Screen%20Shot%202017-04-04%20at%2021.47.45.png)
